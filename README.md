@@ -56,14 +56,8 @@ Built a Machine Learning model to predict equipment failures using machine senso
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Binduathyam)
+[GitHub](https://github.com/Binduathyam)
+[LinkedIn Profile](https://www.linkedin.com/in/bindu-athyam-09b719308)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bindu-athyam-09b719308)
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Binduathyam)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bindu-athyam-09b719308)
 
 
