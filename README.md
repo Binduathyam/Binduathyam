@@ -46,13 +46,6 @@ Built a Machine Learning model to predict equipment failures using machine senso
 **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Machine Learning
 
 
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Binduathyam\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Binduathyam\&layout=compact)
 
 ---
 
