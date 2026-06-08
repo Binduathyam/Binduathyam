@@ -45,12 +45,25 @@ Built a Machine Learning model to predict equipment failures using machine senso
 
 **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Machine Learning
 
+---
+## Education
 
+**Bachelor of Technology (B.Tech) in Computer science and engineering **
+**Bharath Institute of Higher Education and Research**
+2022 – 2026
 
 ---
 
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Binduathyam)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bindu-athyam-09b719308)
+
 ## Contact
 
-GitHub: https://github.com/Binduathyam
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Binduathyam)
 
-LinkedIn: https://www.linkedin.com/in/bindu-athyam-09b719308?utm_source=share_via&utm_content=profile&utm_medium=member_android
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bindu-athyam-09b719308)
+
+
